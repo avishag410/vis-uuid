@@ -1,4 +1,7 @@
-# Vis UUID
+# DEPRECATED
+## We don't use this for internal libraries so you shouldn't either (use [uuid](https://github.com/uuidjs/uuid) instead)
+
+# Vis UUID 
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/visjs/vis-uuid.svg)](https://greenkeeper.io/)
 
